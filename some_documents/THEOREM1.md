@@ -168,7 +168,6 @@ Meta-learning is therefore not a tool for convergence, but a mechanism for **rob
 > **금융 데이터에서의 메타러닝의 가치는 ‘많이 배우는 것’이 아니라
 > ‘한 번의 업데이트가 의미 있도록 만드는 것’이다.**
 
----
 
 ## 이걸 수식으로 연결하면 
 
