@@ -114,17 +114,8 @@ Meta-learning is therefore not a tool for convergence, but a mechanism for **rob
 
 ---
 
-### (한 줄 요약 — Introduction의 숨은 메시지)
+## 한줄 요약
 
 > **금융에서 메타러닝은 ‘많이 배우기 위한 기술’이 아니라,
 > ‘조금만 배워도 안전하도록 만드는 기술’이다.**
 
----
-
-원하시면 다음으로:
-
-* 위 Introduction에 **실제 인용 번호를 붙인 버전**
-* **Related Work 섹션을 A/B/C 블록 구조로 분리한 초안**
-* 이 Introduction에 정확히 맞는 **Abstract 재작성**
-
-중에서 골라서 바로 이어서 써줄게요.
