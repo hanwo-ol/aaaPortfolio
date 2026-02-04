@@ -1,3 +1,7 @@
+# 관련 논문
+- [https://arxiv.org/html/2505.03659v2]
+
+
 # 1 Introduction
 
 ## 1.1 Motivation: Financial Markets Require Fast but Careful Adaptation
